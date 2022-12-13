@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "painter.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
